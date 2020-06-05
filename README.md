@@ -1,4 +1,4 @@
-Test
+Terraform: Up and Running
 ====
 
-Test repo
+ALl code examples written from Terraform: Up and Running. 
